@@ -5,6 +5,18 @@ fewlines is a lightweight PHP-Framework, which includes all basic functions to l
 ### The size matters!
 The core only counts up to 400KB.
 
+### Installation (Composer's create-project)
+```bash
+composer create-project -s beta fewlines/fewlines installfolder
+````
+
+### Installation (GIT + Composer)
+```bash
+git clone https://github.com/fewlines/framework.git installfolder
+cd installfolder
+composer install
+````
+
 ### The component library
 If you want more features like Encryption, Sessions, Formulars, ... you are able to install the component library.
 
