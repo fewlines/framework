@@ -5,9 +5,10 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"fewlines/core": "dev-develop",
-		"fewlines/project": "dev-master",
-		"fewlines/component": "dev-master",
+		"fewlines/core": "1.*@beta",
+		"fewlines/project": "1.*@beta",
+		"fewlines/component": "1.*@beta",
 		"symfony/console": "^3.0"
-	}
+	},
+	"minimum-stability": "beta"
 }
