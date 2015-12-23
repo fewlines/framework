@@ -1,4 +1,9 @@
 {
+	"name": "fewlines/fewlines",
+	"description": "The fewlines framework",
+	"keywords": ["fewlines", "framework", "php", "mvc"],
+	"license": "MIT",
+	"type": "project",
 	"require": {
 		"fewlines/core": "dev-develop",
 		"fewlines/project": "dev-master",
