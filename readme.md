@@ -3,7 +3,7 @@
 fewlines is a lightweight PHP-Framework, which includes all basic functions to let you easily set up your web project(s)!
 
 ### The size matters!
-The core only counts up to 400KB.
+The core is 400KB small.
 
 ### Installation (Composer's create-project)
 ```bash
