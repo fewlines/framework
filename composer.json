@@ -1,0 +1,8 @@
+{
+	"require": {
+		"fewlines/core": "dev-develop",
+		"fewlines/project": "dev-master",
+		"fewlines/component": "dev-master",
+		"symfony/console": "^3.0"
+	}
+}
